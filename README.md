@@ -9,8 +9,6 @@
 "start": "react-scripts --openssl-legacy-provider start",
 "build": "react-scripts --openssl-legacy-provider build",
 
-<img src="./public/banner.png" alt="banner"/>
-
 ## Features
 
 - Animated navbar
